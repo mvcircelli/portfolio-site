@@ -10,8 +10,9 @@ tags: [Systems Engineering, V&V, Space Engineering]
 
 ## At a glance
 - **Roles**: Systems Engineer, Electrical Engineer, V&V Engineer
-- **Timeline**: Sep 2019 - Aug 2023
+- **Timeline & Context**: Sep 2019 - Aug 2023 | Academic
 - **Skills**: Requirements Management, Assembly Integration and Test (AIT), Circuit Diagrams and Design, System Diagrams, Stakeholder Meetings
+- **Tools**: KiCAD, SysML, Python, Arduino C++
 
 ### Summary
 It is a rare privilege to be part of a satellite mission from its initial whiteboard concepts all the way to a successful orbital launch. It is even rarer when that entire lifecycle is driven by a team of university students. 
@@ -34,7 +35,12 @@ The ESSENCE CubeSat mission was exactly that: a fully student-led space project 
 </div>
 
 ## The Mission & The Challenge
-ESSENCE was a 3U CubeSat planned to be in orbital operations for 2 years. While in orbit, it took images of ice melt in northern communities using an earth observation payload designed by Canadensys. It additionally had a secondary payload in the form of an ADCS experiment which tested a hybrid ADCS strategy of using reaction wheels and magnetorquers. It also tested space worthiness of off the shelf components such as a Raspberry Pi Zero and an Arduino Uno by using them in some satellite subsystems.
+- **Mission Objectives**: 
+    1. Perform Earth observation of northern ice melt
+    2. Demonstrate ADCS Experiment
+    3. Qualify low-cost commercial hardware for space.
+- **Solution**: ESSENCE, a 3U CubeSat featuring a Canadensys optical payload, a hybrid reaction wheel/magnetorquer ADCS experiment, and subsystems powered by popular commercial off-the-shelf (COTS) components: a Raspberry Pi Zero and Arduino Uno.
+- **Impact**: Engineered for a 2-year orbital mission to capture critical environmental imagery while validating COTS components and hybrid attitude control strategies in space.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
